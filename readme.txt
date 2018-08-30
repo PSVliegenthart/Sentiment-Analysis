@@ -20,5 +20,5 @@ Arguments:
 
 Example: for the provided test files the following command starts the script: 
 
-python nbclassify.py -T tcat_brexit_train.csv -TC Label -TT tekst -P tcat_brexit_predict.csv -PT text -PSP , 
+python nbclassify.py -T tcat_brexit_train.csv -TC Label -TT tekst -P tcat_brexit_predict_subsetgithub.csv -PT text -PSP , 
 
